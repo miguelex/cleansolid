@@ -105,7 +105,7 @@
         firstName: 'Fernando',
         gender: 'M',
         lastFolderOpen: '/home',
-        lastName: 'Fernando',
+        lastName: 'Herrera',
         role: 'Admin',
         workingDirectory: '/usr/home'
     });
